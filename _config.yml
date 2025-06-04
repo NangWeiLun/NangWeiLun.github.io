@@ -1,0 +1,15 @@
+title: NangWeiLun.github.io
+description: Personal website and portfolio of Nang Wei Lun
+author: Nang Wei Lun
+theme: "minimal-mistakes-jekyll"
+# url: "https://nangweilun.github.io"
+# You can add more configuration options here
+
+# Social links for Minimal Mistakes
+author:
+  name: Nang Wei Lun
+  links:
+    - label: "GitHub"
+      url: "https://github.com/NangWeiLun"
+    - label: "LinkedIn"
+      url: "https://www.linkedin.com/in/wei-lun-nang-164728186/"
