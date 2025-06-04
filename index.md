@@ -1,7 +1,7 @@
-# NangWeiLun.github.io
-
-Welcome to my profile website—powered by GitHub Pages!
-
+---
+layout: single
+title: "Home"
+permalink: /
 ---
 
 ## 👋 About Me
@@ -18,12 +18,14 @@ Hi, I'm Nang Wei Lun. Friends often describe me as creative and a bit quirky, wi
 - Technical University of Malaysia Malacca (UTeM)
   - Bachelor of Computer Science (Artificial Intelligence), 2016–2020
 - <details>
-  <summary>Other Qualifications</summary>
+    <summary>Pre-University & School Qualifications</summary>
 
-  - STPM: Sijil Tinggi Persekolahan Malaysia (Malaysian Higher School Certificate, pre-university qualification)
-  - SPM: Sijil Pelajaran Malaysia (Malaysian Certificate of Education, secondary school qualification)
-  - PMR: Penilaian Menengah Rendah (Lower Secondary Assessment, lower secondary school qualification)
-  - UPSR: Ujian Pencapaian Sekolah Rendah (Primary School Achievement Test, primary school qualification)
+    <ul>
+      <li>STPM: Sijil Tinggi Persekolahan Malaysia (Malaysian Higher School Certificate, pre-university qualification)</li>
+      <li>SPM: Sijil Pelajaran Malaysia (Malaysian Certificate of Education, secondary school qualification)</li>
+      <li>PMR: Penilaian Menengah Rendah (Lower Secondary Assessment, lower secondary school qualification)</li>
+      <li>UPSR: Ujian Pencapaian Sekolah Rendah (Primary School Achievement Test, primary school qualification)</li>
+    </ul>
 
   </details>
 
@@ -32,12 +34,14 @@ Hi, I'm Nang Wei Lun. Friends often describe me as creative and a bit quirky, wi
 - **Factory Environmental Monitoring System** — Developed during my internship: a system that uses CCTV and convolutional neural networks (CNN) to monitor the factory surroundings for environmental protection and leakage prevention.
 
 <details>
-  <summary>🎓 Education Projects</summary>
+  <summary>🎓 Academic Projects</summary>
 
-- [Auto Farming Robot](https://github.com/NangWeiLun/Auto-Farming-Robot) — A prototype robot with an arm and camera that can automatically plant and harvest crops in a vertical farm, using IoT, computer vision, and remote control via Python and Google Cloud. Built with Lego Mindstorm EV3, OpenCV, and Keras/TensorFlow.
-- [Genetic Algorithm Employee Assignment](https://github.com/NangWeiLun/genetic-algorithm-employee-assignment) — A C++ terminal software that uses a genetic algorithm to assign employees to a project, aiming to minimize salary payout and maximize efficiency. Assignment for UTeM's Evolutionary Computing course.
-- [Smartphone Inventory System](https://github.com/NangWeiLun/Smartphone-Inventory-System) — A system to help calculate price, store records in a database, and run transactions efficiently. Java, SQL, Apache Derby. Assignment for UTeM's Object Oriented Programming course.
-- [Online Police Reporting System](https://github.com/NangWeiLun/Online-Police-Reporting-System) — A web-based application that allows users to file police reports online, streamlining the reporting process and improving accessibility. Developed as part of an academic project.
+  <ul>
+    <li><a href="https://github.com/NangWeiLun/Auto-Farming-Robot">Auto Farming Robot</a> — A prototype robot with an arm and camera that can automatically plant and harvest crops in a vertical farm, using IoT, computer vision, and remote control via Python and Google Cloud. Built with Lego Mindstorm EV3, OpenCV, and Keras/TensorFlow.</li>
+    <li><a href="https://github.com/NangWeiLun/genetic-algorithm-employee-assignment">Genetic Algorithm Employee Assignment</a> — A C++ terminal software that uses a genetic algorithm to assign employees to a project, aiming to minimize salary payout and maximize efficiency. Assignment for UTeM's Evolutionary Computing course.</li>
+    <li><a href="https://github.com/NangWeiLun/Smartphone-Inventory-System">Smartphone Inventory System</a> — A system to help calculate price, store records in a database, and run transactions efficiently. Java, SQL, Apache Derby. Assignment for UTeM's Object Oriented Programming course.</li>
+    <li><a href="https://github.com/NangWeiLun/Online-Police-Reporting-System">Online Police Reporting System</a> — A web-based application that allows users to file police reports online, streamlining the reporting process and improving accessibility. Developed as part of an academic project.</li>
+  </ul>
 
 </details>
 
