@@ -11,19 +11,19 @@ Explore the major and minor subjects I studied during my Bachelor of Computer Sc
 <details>
   <summary><b>Major Subjects</b></summary>
   <ul>
-    <li><details><summary>INDUSTRIAL TRAINING</summary>Internship, data science job at Top Glove. Field included image processing, machine learning and python project.</details></li>
-    <li><details><summary>INDUSTRIAL TRAINING REPORT</summary>Report about the tasks done in internship. Report included CCTV monitoring project.</details></li>
-    <li><details><summary>PROJECT II</summary>Complete or enhance the final year project. Project replicates LipNet Model with Python.</details></li>
-    <li><details><summary>PROJECT I</summary>Literature review and startup for final year project. Research Lipreading Model, in field of Automated Visual Speech Recognition.</details></li>
-    <li><details><summary>INTELLIGENT AGENT</summary>Learn how the agent reacts to environment to achieve goal. Teaching material included JADE (Environment), Jason, AnyLogic (Supply Chain GIS), LogixPro, Trsoccerbots, TeamBots, NetBean (Java Develop Software).</details></li>
-    <li><details><summary>EVOLUTIONARY COMPUTING</summary>Learn about the genetic algorithm and its use case. Project developed C++ software and implemented genetic algorithm to solve problem.</details></li>
-    <li><details><summary>IMAGE PROCESSING AND PATTERN RECOGNITION</summary>Learn about how the image is represented in digital form, how to analyze and process the image (background subtraction, edge detection, blur filter, etc). Teaching material included Image-J, Microsoft Excel. Project used Python to train CNN model to recognize ripeness of tomato.</details></li>
-    <li><details><summary>FUZZY LOGIC</summary>Learn the concept of fuzzy logic, fuzzy clustering. Teaching material included MatLab.</details></li>
-    <li><details><summary>NEURAL NETWORK</summary>Learn about the basics of neural networks, the structure and math behind them. Teaching material included MatLab. Project: Python to train an iris flower classification model.</details></li>
-    <li><details><summary>WORKSHOP II</summary>Use Lego Mindstorm EV3, TETRIX, HiTechnic to build a robot project. Project: auto farming with computer vision.</details></li>
-    <li><details><summary>KNOWLEDGE BASED SYSTEM</summary>Learn the concept of knowledge-based systems, knowledge representations and expert systems. Project: develop expert system (Eye Disease Diagnosis System) using CLIPS.</details></li>
-    <li><details><summary>MACHINE LEARNING</summary>Learn how to build a computer system that learns from experience, topics such as decision tree learning, Bayesian learning, linear model. Teaching material: RapidMiner Studio. Project: cooperate with Bangsar Village to share electrical data for students to build machine learning project (predict electrical peak usage).</details></li>
-    <li><details><summary>ARTIFICIAL INTELLIGENCE IN ROBOTIC AND AUTOMATION</summary>Learn how to build an automated robot, the history and types of robots, and ethics in Robotics & Automation. Teaching material included Lego Mindstorm EV3, developed with C# language.</details></li>
+    <li><details><summary>INDUSTRIAL TRAINING</summary>Internship as a data scientist at Top Glove. Fields included image processing, machine learning, and Python projects.</details></li>
+    <li><details><summary>INDUSTRIAL TRAINING REPORT</summary>Report about the tasks completed during the internship, including a CCTV monitoring project.</details></li>
+    <li><details><summary>PROJECT II</summary>Completed or enhanced the final year project. Replicated the LipNet Model using Python.</details></li>
+    <li><details><summary>PROJECT I</summary>Literature review and initiation of the final year project. Researched Lipreading Models in the field of Automated Visual Speech Recognition.</details></li>
+    <li><details><summary>INTELLIGENT AGENT</summary>Learned how agents react to environments to achieve goals. Teaching materials included JADE (Environment), Jason, AnyLogic (Supply Chain GIS), LogixPro, Trsoccerbots, TeamBots, and NetBeans (Java Development Software).</details></li>
+    <li><details><summary>EVOLUTIONARY COMPUTING</summary>Learned about genetic algorithms and their use cases. Developed C++ software and implemented genetic algorithms to solve problems.</details></li>
+    <li><details><summary>IMAGE PROCESSING AND PATTERN RECOGNITION</summary>Learned how images are represented in digital form, and how to analyze and process images (background subtraction, edge detection, blur filter, etc.). Teaching materials included ImageJ and Microsoft Excel. Used Python to train a CNN model to recognize the ripeness of tomatoes.</details></li>
+    <li><details><summary>FUZZY LOGIC</summary>Learned the concepts of fuzzy logic and fuzzy clustering. Teaching materials included MATLAB.</details></li>
+    <li><details><summary>NEURAL NETWORK</summary>Learned the basics of neural networks, their structure, and the mathematics behind them. Teaching materials included MATLAB. Project: Used Python to train an iris flower classification model.</details></li>
+    <li><details><summary>WORKSHOP II</summary>Used Lego Mindstorm EV3, TETRIX, and HiTechnic to build a robot project. Project: Automated farming with computer vision.</details></li>
+    <li><details><summary>KNOWLEDGE BASED SYSTEM</summary>Learned the concepts of knowledge-based systems, knowledge representation, and expert systems. Project: Developed an expert system (Eye Disease Diagnosis System) using CLIPS.</details></li>
+    <li><details><summary>MACHINE LEARNING</summary>Learned how to build computer systems that learn from experience, covering topics such as decision tree learning, Bayesian learning, and linear models. Teaching material: RapidMiner Studio. Project: Collaborated with Bangsar Village to share electrical data for students to build a machine learning project (predicting electrical peak usage).</details></li>
+    <li><details><summary>ARTIFICIAL INTELLIGENCE IN ROBOTIC AND AUTOMATION</summary>Learned how to build automated robots, the history and types of robots, and ethics in Robotics & Automation. Teaching materials included Lego Mindstorm EV3, developed with C#.</details></li>
     <li><details><summary>LOGIC PROGRAMMING</summary></details></li>
     <li><details><summary>STATISTICS AND PROBABILITY</summary></details></li>
     <li><details><summary>OBJECT ORIENTED PROGRAMMING</summary></details></li>
@@ -39,12 +39,12 @@ Explore the major and minor subjects I studied during my Bachelor of Computer Sc
 <details>
   <summary><b>Minor Subjects</b></summary>
   <ul>
-    <li><details><summary>INFORMATION TECHNOLOGY SECURITY</summary>Learn about cryptography, how encryption and decryption work. Teaching material included GnuPG.</details></li>
-    <li><details><summary>TECHNOLOGY ENTREPRENEURSHIP</summary>Learn about entrepreneurship such as business plan. Assignment: Entrepreneur Profiling, Project: Business Plan.</details></li>
-    <li><details><summary>ARTIFICIAL INTELLIGENCE PROJECT MANAGEMENT</summary>Learn how to manage a project, manage work and resources. Project: manage a project using Microsoft Project.</details></li>
-    <li><details><summary>WEB APPLICATION DEVELOPMENT</summary>Learn how to develop a web page with HTML, CSS, PHP. Project: develop an order food website with domain and CPanel.</details></li>
-    <li><details><summary>HUMAN-COMPUTER INTERACTION</summary>Learn the concepts and theories of human-computer interaction, conceptual thinking in problem solving related to application, website or product design. Project: design and record video to promote a product.</details></li>
-    <li><details><summary>SOFTWARE ENGINEERING</summary>Learn about systematic application of engineering approaches to the development of software, such as software development life cycles and use case diagrams.</details></li>
+    <li><details><summary>INFORMATION TECHNOLOGY SECURITY</summary>Learned about cryptography, and how encryption and decryption work. Teaching materials included GnuPG.</details></li>
+    <li><details><summary>TECHNOLOGY ENTREPRENEURSHIP</summary>Learned about entrepreneurship, such as business planning. Assignment: Entrepreneur Profiling. Project: Business Plan.</details></li>
+    <li><details><summary>ARTIFICIAL INTELLIGENCE PROJECT MANAGEMENT</summary>Learned how to manage projects, work, and resources. Project: Managed a project using Microsoft Project.</details></li>
+    <li><details><summary>WEB APPLICATION DEVELOPMENT</summary>Learned how to develop web pages with HTML, CSS, and PHP. Project: Developed a food ordering website with a domain and cPanel.</details></li>
+    <li><details><summary>HUMAN-COMPUTER INTERACTION</summary>Learned the concepts and theories of human-computer interaction, and conceptual thinking in problem solving related to application, website, or product design. Project: Designed and recorded a video to promote a product.</details></li>
+    <li><details><summary>SOFTWARE ENGINEERING</summary>Learned about the systematic application of engineering approaches to software development, such as software development life cycles and use case diagrams.</details></li>
     <li><details><summary>DATA COMMUNICATION AND NETWORKING</summary></details></li>
     <li><details><summary>DATABASE</summary></details></li>
     <li><details><summary>OPERATING SYSTEM</summary></details></li>
