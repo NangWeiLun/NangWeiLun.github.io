@@ -2,6 +2,7 @@
 layout: single
 title: "Nang Wei Lun"
 permalink: /
+author_profile: true
 ---
 
 ## 👋 About Me
