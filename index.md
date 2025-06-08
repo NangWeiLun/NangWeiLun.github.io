@@ -1,12 +1,12 @@
 ---
 layout: single
-title: "Nang Wei Lun | Portfolio"
+title: "Nang Wei Lun"
 permalink: /
 ---
 
 ## 👋 About Me
 
-Hi, I'm Nang Wei Lun. Friends often describe me as creative and a bit quirky, with a unique perspective on things. I sometimes find it challenging to communicate my ideas, but I value listening and meaningful conversations.
+I am a highly motivated and results-oriented software engineer with a passion for automating everything. With a strong background in computer science and artificial intelligence, I am always looking for new ways to apply my skills to solve problems. Friends often describe me as creative and a bit quirky, with a unique perspective on things. While I sometimes find it challenging to communicate my ideas, I value listening and meaningful conversations.
 
 ## 💼 Experience
 - Sony EMCS (Malaysia) Sdn. Bhd. — AI Design Engineer (AI solutions engineer) (2020–Present)
