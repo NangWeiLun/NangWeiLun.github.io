@@ -2,6 +2,7 @@ title: NangWeiLun.github.io
 description: Personal website and portfolio of Nang Wei Lun
 # author: Nang Wei Lun
 remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "dark"
 # url: "https://nangweilun.github.io"
 # You can add more configuration options here
 
