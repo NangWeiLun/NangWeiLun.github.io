@@ -10,10 +10,8 @@ minimal_mistakes_skin: "dark"
 author:
   name: Nang Wei Lun
   links:
-    - label: "GitHub"
-      url: "https://github.com/NangWeiLun"
-    - label: "LinkedIn"
-      url: "https://www.linkedin.com/in/wei-lun-nang-164728186/"
+    - github: NangWeiLun
+    - linkedin: wei-lun-nang-164728186
 
 plugins:
   - jekyll-include-cache
